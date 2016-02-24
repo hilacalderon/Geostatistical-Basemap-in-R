@@ -1,5 +1,4 @@
 # Geostatistical-Basemap-in-R
-Geostatistical Basemap in R
 
 In this repository is it covered the most basic elements for the creation and forther use of the geoestatitical basemap using as an input some shapefiles.
 
